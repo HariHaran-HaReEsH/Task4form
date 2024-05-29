@@ -1,0 +1,20 @@
+.Temp td,tr,th{
+    
+    border: 3px solid green;
+    border-radius: 7px;
+    border-collapse: collapse;
+    
+}
+.Temp table{
+    text-align: center;
+    border: 5px solid green;
+    border-collapse:collapse ;
+    
+}
+.Temp{
+    overflow:scroll;
+    float: left;
+    margin: 0px;
+    width: 100%;
+
+}
